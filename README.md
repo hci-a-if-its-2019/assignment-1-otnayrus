@@ -1,5 +1,5 @@
-# Contextual Inquiry and Analysis
-## Device/ App/ Website Description
+# Contextual Inquiry and Analysis (Any.do Mobile Application)
+## Mobile App Description
 Any.do mobile app is an application that is performed on mobile devices that used for reminder and to-do list in your own mobile phone.
 In this tested version (free), user will be performing such tasks for example : adding items, editing items, and removing items. 
 ## Instruction Script
