@@ -111,16 +111,17 @@ X = Interviewee
 ## Models and Annotations
 ### Artifact Model
 <p align="center">
-  <img src="img/p1.png"><br>
-  <img src="img/p2.png"><br>
-  <img src="img/p3.png"><br>
-  <img src="img/p4.png"><br>
+  <img src="img/p1.png"><br><br>
+  <img src="img/p2.png"><br><br>
+  <img src="img/p3.png"><br><br>
+  <img src="img/p4.png"><br><br>
   <img src="img/p5.png"><br>
 </p>
+
 ### Flow Model
-![Flow Model and Annotation](https://picsum.photos/400/300/?random)
+![Flow Model and Annotation](img/f1.png)
 ### Cultural Model
-![Cultural Model and Annotation](https://picsum.photos/400/300/?random)
+![Cultural Model and Annotation](img/c1.png)
 ## Do's and Don't's
 ###Do
 - Change the time selection features in a more communicative way, and easy to use
