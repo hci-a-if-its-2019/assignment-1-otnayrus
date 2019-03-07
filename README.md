@@ -123,10 +123,10 @@ X = Interviewee
 ### Cultural Model
 ![Cultural Model and Annotation](img/c1.png)
 ## Do's and Don't's
-###Do
+### Do
 - Change the time selection features in a more communicative way, and easy to use
 - Remake the finish selection to a uncolored checkbox. This might give more clarity to user than using just blank circle.
-###Don't
+### Don't
 - Ambigual meaning of the button on top right. (User see it as a new message)
 - Unimportant animations / transitions
 - Using to small selection fields
