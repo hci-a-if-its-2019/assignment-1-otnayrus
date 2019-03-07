@@ -110,15 +110,22 @@ X = Interviewee
 ```
 ## Models and Annotations
 ### Artifact Model
-![Artifact Model and Annotation 1](img/p1.png)
-![Artifact Model and Annotation 2](img/p2.png)
-![Artifact Model and Annotation 3](img/p3.png)
-![Artifact Model and Annotation 4](img/p4.png)
-![Artifact Model and Annotation 5](img/p5.png)
-![Artifact Model and Annotation 6](img/p6.png)
+<p align="center">
+  <img src="img/p1.png"><br>
+  <img src="img/p2.png"><br>
+  <img src="img/p3.png"><br>
+  <img src="img/p4.png"><br>
+  <img src="img/p5.png"><br>
+</p>
 ### Flow Model
 ![Flow Model and Annotation](https://picsum.photos/400/300/?random)
 ### Cultural Model
 ![Cultural Model and Annotation](https://picsum.photos/400/300/?random)
 ## Do's and Don't's
-
+###Do
+- Change the time selection features in a more communicative way, and easy to use
+- Remake the finish selection to a uncolored checkbox. This might give more clarity to user than using just blank circle.
+###Don't
+- Ambigual meaning of the button on top right. (User see it as a new message)
+- Unimportant animations / transitions
+- Using to small selection fields
