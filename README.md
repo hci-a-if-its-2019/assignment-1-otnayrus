@@ -1,18 +1,124 @@
 # Contextual Inquiry and Analysis
 ## Device/ App/ Website Description
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut commodo molestie libero non dapibus. Praesent malesuada erat dolor, eget varius quam tempor sit amet. Etiam justo nibh, dignissim id lorem vel, posuere aliquet risus. Donec iaculis dui sapien, ac suscipit nunc suscipit non. Vivamus malesuada laoreet mauris eu commodo. Ut vitae nisi vel turpis aliquet ultrices. Cras sollicitudin gravida tortor, non semper dui congue at. Donec sem nisl, tempor eu hendrerit id, blandit id quam. Curabitur et diam quam. Suspendisse vel felis nec velit vulputate eleifend nec eu nisi. Morbi rutrum ex non ante fringilla, in rutrum felis aliquam. In cursus sem et dictum tincidunt. Curabitur id nisi nec nibh convallis vehicula ullamcorper non ex. In interdum lorem a est imperdiet porta.
+Any.do mobile app is an application that is performed on mobile devices that used for reminder and to-do list in your own mobile phone.
+In this tested version (free), user will be performing such tasks for example : adding items, editing items, and removing items. 
 ## Instruction Script
-Nam a eleifend tortor. In eget facilisis est. Suspendisse tincidunt mi lorem, non volutpat libero scelerisque id. Curabitur dui dui, dignissim ac lectus sit amet, sodales gravida ex. Donec mattis, enim vitae sollicitudin rhoncus, diam elit consequat massa, et rutrum magna augue vitae turpis. In eget arcu laoreet, dapibus arcu eget, mattis massa. Aenean fringilla eu dui ut vestibulum. Aenean consequat consectetur massa, eget ornare sapien dignissim vel. Nunc vestibulum tellus ut dolor euismod commodo. Vivamus fringilla urna eget elit vestibulum mattis. Sed nec mattis nisl. Sed sit amet sapien at libero tincidunt ullamcorper. Sed tempus non quam eu rutrum. Nunc fringilla lorem non nibh pulvinar fermentum.
+(These instructions are for the user's tomorrow plans)
+1. Opening app and login
+2. Add reminder for "Makan Apel"
+3. Add reminder for "Maen PUBG" at 19.00
+4. Add reminder for "Angkat beban" at 16.00
+5. List all of the user's tomorrow plans and set reminder based on the time.
+6. Add plans for "Kerja Kelompok" at 14.00-17.00 , just received the invitation recently, so the user must change the plans at current time.
+7. Add plans for "Belajar" at 19.00-21.00, the user must delete the "Maen PUBG" plans. If there is any plans at current time, it's up for the user whether the user want to change or delete it.
 ## User Description
-Aliquam id lacus leo. Sed elementum lectus non lacus ultricies vehicula. Pellentesque et sollicitudin risus, a imperdiet metus. Vivamus augue ligula, suscipit ac cursus quis, auctor eu nunc. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla facilisi. Praesent rhoncus faucibus mauris. Curabitur bibendum lorem eu neque efficitur, quis luctus mauris aliquet. Praesent posuere, urna eget euismod dictum, elit est vehicula ex, volutpat ultrices augue mi in mauris. Nulla lobortis dolor quis ullamcorper volutpat. Aenean convallis eros vitae justo elementum condimentum. Aenean eros enim, lobortis non imperdiet quis, pulvinar volutpat quam.
+- 19 years old
+- Currently studying at Marine Engineering ITS, 6th semester.
 ## Transcript
-Interdum et malesuada fames ac ante ipsum primis in faucibus. Suspendisse auctor, nunc non gravida maximus, nisl dui lobortis mi, ut maximus ipsum arcu eu quam. Etiam euismod lacus rhoncus lectus dapibus, nec maximus lorem porttitor. Nunc finibus dictum vehicula. Maecenas feugiat turpis vitae maximus placerat. Nunc quis neque vestibulum, rhoncus libero vel, efficitur diam. Donec lobortis turpis condimentum ultrices finibus. Sed sit amet eleifend sapien, non tristique felis. Suspendisse potenti. Maecenas sodales ac dolor ac suscipit. Aenean turpis arcu, placerat et augue vel, lacinia tincidunt ante. Etiam rhoncus nisl vitae sem rhoncus ultrices. Praesent venenatis vulputate diam, iaculis fringilla nisi. Nullam a tellus eget ipsum volutpat mattis fringilla non erat. Donec tincidunt mi sed metus vulputate tristique. Nam in dolor ut ex vestibulum rhoncus in nec lectus.
+```text
+I = Interviewer (Me)
+X = Interviewee
+
+---Pre---
+1.  I : Apa jenis HP anda sekarang? (Android / iPhone / conventional)
+2.  X : Sekarang pake Android.
+3.  I : Apa keperluan anda menggunakan HP sehari-hari?
+4.  X : komunikasi general, liat youtube, kadang-kadang maen game.
+5.  I : Seberapa sering anda menggunakan HP?
+6.  X : kurang lebih 10 jam sehari.
+7.  I : Apakah anda sering lupa melakukan suatu pekerjaan?
+8.  X : Sering lupa kalo nggak dicatet.
+9.  I : Apa yang anda gunakan sebagai pengingat kegiatan sehari-hari?
+10. X : Ya diingat ingat aja, dikasih prioritas mengingat.
+11. I : Pernahkah menggunakan aplikasi reminder kegiatan?
+12. X : Tidak pernah.
+13. I : Adakah sesuatu/kebutuhan secara spesifik jika anda memilih suatu reminder?
+14. X : Cukup pop-up notification aja sih.
+
+---Main---
+15. X : Ini aplikasi apa?
+16. I : Aplikasi buat reminder, nanti tugasmu cuma nambahin reminder aja sesuai instruksi
+(00:00:01 Membuka Aplikasi)
+17. X : (Melihat halaman awal aplikasi) Start like a pro, hmm. Yang mana ini.. Start 7 Days free trial bukan?
+18. I : Ndak usah, kita pakai yang free saja.
+19. X : Oh ini, skip. 
+(00:00:30 berhasil masuk ke halaman utama)
+20. I : Coba add salah satu kegiatan.
+21. X : Ok, misalnya nih today, mau 'buy' ini, ini jamnya gimana (memilih jam), oh bisa.
+(00:00:52 Berhasil menambahkan 'Buy')
+22. X : Loh kok dicoret. (00:00:53 Tidak sengaja menekan bullet yang mengakibatkan 'Buy' selesai dilakukan)
+23. I : Sekarang coba add reminder makan apel hari ini.
+24. X : Ok, jadi aku nyari makan.. (00:01:26 menambahkan 'get')
+25. X : Tapi cuma tulisan 'get' doang... (membuka detail 'get'), o ada tagnya, o bisa diedit.
+(00:01:47) berhasil menambahkan 'Get makan apel'
+26. I : Ok, coba kamu membuat kegiatan untuk besok, yang pertama makan apel, tapi nggak ada jamnya. cukup sebatas reminder aja.
+27. X : Ok bentar... Sudah
+(00:02:16) berhasil menambahkan 'makan apel'
+28. I : Selanjutnya coba buat pengingat 'Maen pubg' besok jam 19.00
+29. X : Ok, add maen pubg, jam 19.. dimana ya (mencari jam 19)
+(00:03:43) berhasil menambahkan 'maen pubg'
+30. I : Buat pengingat latihan beban pada pukul 15.00 besok.
+31. X : Angkat beban.. jam 15 (sambil membuat). Sudah.
+(00:04:12) berhasil menambahkan 'angkat beban' 
+32. I : Selanjutnya coba buat rencana kegiatanmu besok pagi, misal dari bangun tidur sampe tidur malem. Tapi tidak usah terlalu detail.
+33. X : Ok, bangun pagi, jam 6 am. (sambil membuat,(00:04:40) membuat 'bangun pagi' tanpa jam. Kemudian menambahkan jam namun sore. Menyadari bahwa reminder set untuk 'today')
+(00:05:21 berhasil membuat 'bangun pagi')
+34. I : Ok lanjut.
+35. X : Mandi deh. Tapi ini agak susahnya di bagian ganti jamnya, karena buat nambah reminder aja butuh banyak pencetan. Terpisah aja tanggal sama waktunya si. ((00:05:37) sambil membuat 'mandi' namun salah jam)
+36. I : Kira-kira tulisannya terlalu kecil gak?
+37. X : Ya, ini kecil, tidak bisa dibesarin. Tergantung Hp sama jari tangan orangnya si.
+38. X : ((00:06:31) jam menjadi p.m., sambil mengganti jam) A.M nya kok nggak bisa dipencet?
+39. I : Bisa si harusnya
+40. X : (sewaktu edit jam, aplikasi merefer ke 'today') Oh kok today, coba kalau aku pindahin... nah sudah bisa, set Mandi.
+(00:06:35) set Mandi
+41. I : Ok terus kita tambah lagi untuk besok ada kelas apa saja.
+42. X : Besok kuliah apa ya, aku lupa, soalnya hampir sama semua topiknya.
+43. X : (Sambil menulis kelas , ngobrol hpnya apa, (00:07:18) Tidak sengaja hpnya dimiringkan). Wuih langsung ilang, hpnya miring langsung ilang kelasnya... Ok sudah buat baru lagi.
+(00:07:39) berhasil menambahkan 'kelas 1'
+44. I : Ok sip, selanjutnya apa..
+45. X : Sholat jumat siangnya. Remind me jam 11.40.
+(00:08:01) berhasil menambahkan 'Sholat Jumat'
+46. I : Terus kelas apalagi siangnya?
+47. X : Selanjutnya reparasi kapal jam setengah dua. Nah udah.
+(00:08:21) berhasil menambahkan 'Kelas 2'
+48. X : Trus ini nanti kalo reminding nya gimana? Notifikasinya pop-up apa alarm?
+49. I : Defaultnya si pop-up.
+50. X : Lebih bagus kalo nanti ada widget di atas gitu buat tau upcoming,
+51. I : Iya aplikasinya sudah ada fitur itu di hpku dulu.
+52. X : Kok gaada?
+53. I : Ketutup mungkin atau kepencet tadi.
+54. I : Jadi lanjut, ternyata kamu besok ada kerja kelompok habis kuliah siang sampai mahrib. Jadi kamu harus mengganti remindermu bahwa habis kuliah siang itu, ada kerja kelompok, jadi yang tabrakan itu diganti atau dihapus terserah.
+55. X : Yang tabrakan ya besok, oo apasih? (sambil mencari, (00:09:76) menemukan), angkat beban tuh tabrakan, jadi langsung diubah aja ya berarti ya. Terus jadwalnya diubah jadi 3.30 ya.
+56. I : Ya.
+57. X : Pemilihan jamnya aduh, ribet sih... Trus save.
+(00:10:19) berhasil ubah jadwal 'Kerja Kelompok'
+58. I : Susah nggak kalau cari jadwal yang tabrakan kayak gini? Misal, siang ini kamu mau ngapain aja si.
+59. X : Masalahnya, dia ini susunanya nggak bisa urut sesuai jam gitu.
+60. I : Jadi harus satu-satu gitu carinya?
+61. X : Jadi satu-satu gini kan agak bingung. Trus kayakny tulisan jamnya juga kekecilan.
+62. I : Apalagi misal?
+63. X : Trus bisa nggak ini diulang-ulang (concurrent), jadi 1 minggu itu jadwalnya bisa sama gitu.
+64. I : Bisa, tapi bayar fitur premium.
+65. X : lul, ya gapapa si kalau memang niat gitu.
+66. I : Ok jadi lanjut ke instruksi selanjutnya, jadi karena kamu baru mendapat kabar bahwa besok ada kuis, ternyata malem habis mahrib itu harus belajar, dan kamu memutuskan untuk tidak main pubg. Coba ganti remindermu.
+67. X : Ok, mana main pubg (sambil mencari)... ok ganti belajar (00:12:25 mengganti menjadi ""belajar"". (A) petik 2 dianggap important uleh X).
+68. X : (sambil mengganti, (00:12:35) menemukan tag important) nah ini, nice udah.
+(00:12:39) berhasil mengganti belajar
+69. I : Ada saran lagi buat aplikasinya?
+70. X : Selain waktu sama sorting si apalagi ya... ((00:13:28) menemukan tab kalender) nah kalo ini baru bisa urut coy jadwalnya, nggak kayak di halaman utama, bikin bingung juga si, bagus juga ya bisa konek sama google calendar.
+-End of main-
+```
 ## Models and Annotations
 ### Artifact Model
-![Artifact Model and Annotation](https://picsum.photos/400/300/?random)
+![Artifact Model and Annotation 1](img/p1.png)
+![Artifact Model and Annotation 2](img/p2.png)
+![Artifact Model and Annotation 3](img/p3.png)
+![Artifact Model and Annotation 4](img/p4.png)
+![Artifact Model and Annotation 5](img/p5.png)
+![Artifact Model and Annotation 6](img/p6.png)
 ### Flow Model
 ![Flow Model and Annotation](https://picsum.photos/400/300/?random)
 ### Cultural Model
 ![Cultural Model and Annotation](https://picsum.photos/400/300/?random)
 ## Do's and Don't's
-Fusce lobortis massa mauris, in aliquam erat aliquet eget. Donec rhoncus venenatis mauris, at commodo odio bibendum ac. Sed consectetur enim justo, vitae maximus eros elementum non. Sed feugiat orci sem, vel faucibus sem aliquet sed. Praesent pulvinar felis eget nisl varius, id lacinia urna pretium. Sed at ornare diam, nec fringilla dolor. In ut gravida sapien, eget varius magna. Morbi lobortis ex eu eleifend finibus. Phasellus eget nulla ullamcorper, ullamcorper purus ac, luctus turpis. Sed volutpat mauris ut erat consectetur, in sagittis erat egestas.
+
