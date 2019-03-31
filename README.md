@@ -130,3 +130,11 @@ X = Interviewee
 - Ambigual meaning of the button on top right. (User see it as a new message)
 - Unimportant animations / transitions
 - Using to small selection fields
+
+# Remarks
+> * Thanks for completing all the parts in this assignment.
+> * However, the `Models and Annotations` lack of reference numbers, with which lines on `Transcript` the breakdowns/barriers are related to. The reference numbers are important to highlight your evidence of the UI problems faced/found by the participants. Otherwise, readers may think that all the breakdowns are merely your own assumptions/opinions.
+
+| Working Days | Commits before D | Commits after D | Presentation (80%) | Repo (20%) | Total |
+|:------------:|:----------------:|:---------------:|:------------------:|:----------:|:-----:|
+| 1            | 5                | 0               | 85,5               | 80,5       | 84,5  |
